@@ -1,4 +1,3 @@
-# Biosensor-Modeling
 # 🧪 Biosensor-Modeling
 
 Numerical modeling of amperometric biosensors for detecting L-Lactate with uncompetitive inhibition using explicit finite difference methods. This repository contains the code, figures, and data supporting the modeling framework presented in our research.
